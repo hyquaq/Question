@@ -1,6 +1,6 @@
 # Question
 ## Overview
-![Overview](img/Overview.png "Overview")
+![Overview](img/Overview1.png "Overview")
 
 - **Read**, handing and **store** data for use next time.
 - **Remember** your answer.
@@ -34,3 +34,5 @@ if you format question have ```\n``` the same picture above don't worry. **it's 
 after done it look like
 ![](img/exampleDone.png)
 ### step3
+- run file ``` ```
+- run file ``` ``` and start study
