@@ -18,13 +18,21 @@ class Question:
         return False
 
     def right(self):
-        self.cRight += 1
+        self.cRight = int(self.cRight) + 1
 
     def wrong(self):
-        self.cWrong += 1
+        self.cWrong = int(self.cWrong) + 1
 
     def getAnswer(self):
         return self.key
+
+    def getInfoAnswer(self):
+        ans = ""
+        ans = self.ans1 if self.key == '1' else ans
+        ans = self.ans2 if self.key == '2' else ans
+        ans = self.ans3 if self.key == '3' else ans
+        ans = self.ans4 if self.key == '4' else ans
+        return "{}. {}".format(self.key, ans)
 
     def getInformation(self):
         return repr(self) + str(self.cRight) + "\n" + str(self.cWrong)
@@ -35,5 +43,5 @@ class Question:
                                                    self.ans4, self.key)
 
     def __str__(self):
-        return "\nCau hoi la({}/{}): {}\nA. {}\nB. {}\nC. {}\nD. {}\n".format(self.cRight, self.cWrong,
+        return "\nCau hoi la({}/{}): {}\n1. {}\n2. {}\n3. {}\n4. {}\n".format(self.cRight, self.cWrong,
                                                                               self.ques, self.ans1, self.ans2, self.ans3, self.ans4)

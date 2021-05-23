@@ -13,7 +13,7 @@ def removeNewline(sources):
     return sources
 
 
-def inputAndHanding(path):
+def inputAndHanding(path, pathSave='studyed.txt'):
     try:
         file = open(path, mode='r')
         lines = file.readlines()
@@ -38,7 +38,36 @@ def inputAndHanding(path):
             managerQuestion.addQuestion(ques)
         file.close()
 
-        managerQuestion.save()
+        managerQuestion.save(pathSave)
+    except Exception as e:
+        print(str(e))
+
+    return managerQuestion
+
+
+def inputStudyed(path='studyed.txt'):
+    try:
+        file = open(path, mode='r')
+        lines = file.readlines()
+        lines = removeNewline(lines)
+
+        countQues = int(len(lines) / 8)
+        input("we have {} question.".format(countQues))
+        managerQuestion = ManagerQuestion()
+        for i in range(0, 8 * (countQues - 1) + 1, 8):
+            # remove 'x' and get right answer
+            ques = Question(ques=lines[i],
+                            ans1=lines[i + 1],
+                            ans2=lines[i + 2],
+                            ans3=lines[i + 3],
+                            ans4=lines[i + 4],
+                            key=lines[i+5],
+                            cRight=lines[i+6],
+                            cWrong=lines[i+7])
+            managerQuestion.addQuestion(ques)
+        file.close()
+
+        # managerQuestion.save(path)
     except Exception as e:
         print(str(e))
 
@@ -46,4 +75,7 @@ def inputAndHanding(path):
 
 
 if __name__ == "__main__":
-    inputAndHanding('questionBasic.txt')
+    # manager = inputAndHanding('questionBasic.txt')
+    manager = inputStudyed()
+    manager.study()
+    manager.save()

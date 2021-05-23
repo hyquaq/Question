@@ -2,10 +2,9 @@ import random
 
 
 def mySort(e):
-    a = e.cRight - e.cWrong
+    a = int(e.cRight) - int(e.cWrong)
     if (a < 0):
         return 0
-
     return a
 
 
@@ -26,16 +25,19 @@ class ManagerQuestion:
             print(e)
 
     def study(self):
-        print("Welcome to my Study\n Please enter if you can continue")
+        # title game
+        print("==>Welcome to my Study<==")
+        print('Please enter if you can continue')
+
         while True:
-            # ques = random.choice(self.list)
             self.list.sort(key=mySort)
-            # print(self.list)
-            ques = self.list[0]
+            # random choice in 1/3 question first in list
+            # because they are question you is wrong
+            ques = random.choice(self.list[0:int(self.count / 3)])
             print(ques)
 
             userChoose = str(
-                input("enter a(1) b(2) c(3) d(4) or cancel(c) offer(o): "))
+                input("enter 1 2 3 4 or cancel(c) offer(o): "))
             while (userChoose == ''
                    or not (userChoose == '1' or userChoose == '2'
                            or userChoose == '3' or userChoose == '4' or userChoose == 'c' or userChoose == 'o')):
@@ -49,18 +51,19 @@ class ManagerQuestion:
                 print('developing... coming soon')
                 continue
 
-            # print(userChoose)
             if (ques.check(userChoose)):
                 print("congratulations")
                 ques.right()
             else:
-                print("wrong. right ans is {}".format(ques.getAnswer()))
+                print("you choose {} is not answer, right answer is {}".format(
+                    userChoose, ques.getInfoAnswer()))
+                input()
                 ques.wrong()
 
-    def save(self, path):
+    def save(self, path='studyed.txt'):
         with open(path, mode='w') as fo:
             for e in self.list:
                 fo.write("{}\n".format(e.getInformation()))
 
     def __str__(self):
-        return str(self.count)
+        return "managerQuestion have {} questions".format(str(self.count))
