@@ -1,5 +1,5 @@
 class Question:
-    def __init__(self, ques, ans1, ans2, ans3, ans4, key, cRight, cWrong):
+    def __init__(self, ques, ans1, ans2, ans3, ans4, key, cRight=0, cWrong=0):
         self.ques = ques
         self.ans1 = ans1
         self.ans2 = ans2
@@ -35,5 +35,5 @@ class Question:
                                                    self.ans4, self.key)
 
     def __str__(self):
-        return "\nCau hoi la: {}\nA. {}\nB. {}\nC. {}\nD. {}\n".format(
-            self.ques, self.ans1, self.ans2, self.ans3, self.ans4)
+        return "\nCau hoi la({}/{}): {}\nA. {}\nB. {}\nC. {}\nD. {}\n".format(self.cRight, self.cWrong,
+                                                                              self.ques, self.ans1, self.ans2, self.ans3, self.ans4)

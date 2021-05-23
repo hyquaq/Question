@@ -34,29 +34,32 @@ class ManagerQuestion:
             ques = self.list[0]
             print(ques)
 
-            userChoose = str(input("enter a(1) b(2) c(3) or d(4): "))
-            print(userChoose)
+            userChoose = str(
+                input("enter a(1) b(2) c(3) d(4) or cancel(c) offer(o): "))
+            while (userChoose == ''
+                   or not (userChoose == '1' or userChoose == '2'
+                           or userChoose == '3' or userChoose == '4' or userChoose == 'c' or userChoose == 'o')):
+                userChoose = str(input("enter again:"))
+
+            if (userChoose == 'c'):
+                print("see yah")
+                break
+
+            if (userChoose == 'o'):
+                print('developing... coming soon')
+                continue
+
+            # print(userChoose)
             if (ques.check(userChoose)):
-                print("right")
+                print("congratulations")
                 ques.right()
             else:
                 print("wrong. right ans is {}".format(ques.getAnswer()))
                 ques.wrong()
 
-            try:
-                print("enter continute or cancel(c): ")
-                isExit = input()
-                if (isExit == 'c'):
-                    print("see yah")
-                    break
-            except Exception as e:
-                print('error' + str(e))
-                pass
-
-    def save(self):
-        with open('studyed.txt', mode='w') as fo:
+    def save(self, path):
+        with open(path, mode='w') as fo:
             for e in self.list:
-                # print(e.getInformation())
                 fo.write("{}\n".format(e.getInformation()))
 
     def __str__(self):
