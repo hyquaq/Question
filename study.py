@@ -15,7 +15,7 @@ def removeNewline(sources):
 
 def inputStudyed(path='studyed.txt'):
     try:
-        file = open(path, mode='r')
+        file = open(path, mode='r', encoding='utf-8')
         lines = file.readlines()
         lines = removeNewline(lines)
 

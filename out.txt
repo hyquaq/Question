@@ -1182,14 +1182,6 @@ Dân chủ
 1
 0
 0
-Trong xã hội có 3 quá trình sản xuất chủ yếu, quá trình nào là cơ sở của tồn tại và phát triển xã hội:
-Sản xuất vật chất 
-Sản xuất tinh thần 
-Sản xuất bản thân ra con người 
-Sản xuất công cụ lao động
-1
-0
-0
 Quy luật cơ bản của sự vận động và phát triển xã hội:
 Quy luật về sự phù hợp của quan hệ sản xuất với tính chất và trình độ phát triển của lực lượng sản xuất 
 Quy luật về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng 
@@ -3501,6 +3493,14 @@ Hao mòn hữu hình và hao mòn vật chất.
 Hao mòn hữu hình và hao mòn do sử dụng.
 2
 0
+0
+Trong xã hội có 3 quá trình sản xuất chủ yếu, quá trình nào là cơ sở của tồn tại và phát triển xã hội:
+Sản xuất vật chất 
+Sản xuất tinh thần 
+Sản xuất bản thân ra con người 
+Sản xuất công cụ lao động
+1
+1
 0
 Quan điểm phát triển là quá trình vận động tiến lên theo con đường xoáy ốc là quan điểm của trường phái triết học:
 Quan điểm siêu hình 

@@ -93,7 +93,7 @@ class ManagerQuestion:
     def write(self, source, path='out-studyed.txt'):
         print("i'm storing...")
         try:
-            with open(path, mode='w') as fo:
+            with open(path, mode='w', encoding='utf-8') as fo:
                 for e in source:
                     fo.write("{}\n".format(e.getInformation()))
                 return True
@@ -103,7 +103,7 @@ class ManagerQuestion:
     def save(self, path='out-studyed.txt'):
         print("i'm storing...")
         try:
-            with open(path, mode='w') as fo:
+            with open(path, mode='w', encoding='utf-8') as fo:
                 self.sort()
                 for e in self.list:
                     fo.write("{}\n".format(e.getInformation()))
