@@ -14,14 +14,6 @@ quan niệm chung của con người về thế giới; về con người và v�
 2
 0
 0
-Hãy sắp xếp theo trình tự xuất hiện từ sớm nhất đến muộn nhất các hình thức thế giới quan (TGQ) sau: 
-TGQ Tôn giáo - TGQ thần thoại - TGQ triết học 
-TGQ Thần thoại – TGQ tôn giáo - TGQ triết học 
-TGQ Triết học – TGQ tôn giáo - TGQ thần thoại 
-TGQ Thần thoại - TGQ triết học – TGQ tôn giáo 
-2
-0
-0
 Phương pháp luận là:
 khoa học về nhận thức.
 phương pháp tiếp cận nhận thức và thực tiễn.
@@ -62,14 +54,6 @@ Tư tưởng nhân loại; Triết học cổ điển Đức; Kinh tế chính t
 3
 0
 0
-Các tiền đề khoa học tự nhiên góp phần minh chứng tính đúng đắn về thế giới quan và phương pháp luận của Chủ nghĩa Mác là :
-Quy luật bảo toàn và chuyển hóa năng lượng
-Thuyết tiến hóa
-Thuyết tế bào
-Cả a, b và c
-4
-0
-0
 Triết học ra đời vào thời gian nào? 
 Thiên niên kỷ II. TCN 
 Thế kỷ VIII - thế kỷ VI trước CN 
@@ -84,14 +68,6 @@ Triết học ra đời sớm nhất ở đâu?
 Ai cập, Ấn Độ, Trung Quốc 
 Châu Mỹ, Châu Phi, Châu Âu
 2
-0
-0
- Triết học nghiên cứu thế giới như thế nào? 
-Như một đối tượng vật chất cụ thể 
-Như một hệ đối tượng vật chất nhất định 
-Như một chỉnh thể thống nhất 
-Như một hình thức vật chất bình thường
-3
 0
 0
 Triết học là gì? 
@@ -157,7 +133,7 @@ Khoa học tự nhiên có mối quan hệ quyết định đối với thần h
 Khoa học tự nhiên dần dần độc lập với thần học và tôn giáo 
 4
 0
-0
+1
 Về khách quan, sự phát triển khoa học tự nhiên và thế giới quan duy tâm tôn giáo quan hệ với nhau như thế nào? 
 Sự phát triển khoa học tự nhiên củng cố thế giới quan duy tâm tôn giáo 
 Sự phát triển khoa học tự nhiên không ảnh hưởng gì đến thế giới quan duy tâm tôn giáo 
@@ -245,29 +221,13 @@ Có tính duy tâm chủ quan
 Còn pha trộn giữa các yếu tố duy vật và duy tâm, có tính chất phiếm thần luận
 4
 0
-0
+1
 Nicôlai Côpécních đã đưa ra học thuyết nào? 
 Thuyết trái đất là trung tâm vũ trụ 
 Thuyết cấu tạo nguyên tử của vật chất 
 Thuyết ý niệm là nguồn gốc của thế giới 
 Thuyết mặt trời là trung tâm vũ trụ
 4
-0
-0
-Học thuyết về vũ trụ của Nicôlai Côpécních có ý nghĩa như thế nào đối với sự phát triển của khoa học tự nhiên? 
-Đánh dấu sự ra đời của khoa học tự nhiên 
-Đánh dấu bước chuyển từ khoa học tự nhiên thực nghiệm sang khoa học tự nhiên lý luận 
-Đánh dấu sự giải phóng khoa học tự nhiên khỏi thần học và tôn giáo
-Khôi phục khoa học tự nhiên thời kỳ cổ đại
-3
-0
-0
- Đối với thế giới quan tôn giáo, phát minh của Côpécních có ý nghĩa gì? 
-Củng cố thế giới quan tôn giáo 
-Không có ảnh hưởng gì đối với thế giới quan tôn giáo 
-Bác bỏ nền tảng của thế giới quan tôn giáo 
-Chứng minh tính hợp lý của kinh thánh
-3
 0
 0
 Quan điểm cho rằng thượng đế và tự nhiên chỉ là một loại là quan điểm có tính chất gì? 
@@ -438,14 +398,6 @@ Chủ nghĩa duy Ngã
 3
 0
 0
-Nhà triết học cho rằng “nước” là thực thể đầu tiên của thế giới và quan điểm đó thuộc trường phái triết học:
-Talet - Chủ nghĩa duy vật chất phác
-Điđrô - chủ nghĩa duy vật biện chứng 
-Béccơli - chủ nghĩa duy tâm chủ quan 
-Platon - chủ nghĩa duy tâm khách quan
-1
-0
-0
 Nhà triết học nào coi “lửa” là thực thể đầu tiên của thế giới và đó là lập trường của nhà triết học:
 Đêmôcrit - chủ nghĩa duy vật chất  phác
 Heraclit - chủ nghĩa duy chất phác 
@@ -541,7 +493,7 @@ Cảm giác, ý thức phụ thuộc thủ động vào thế giới vật chấ
 Cảm giác, ý thức là nguồn gốc của thế giới vật chất
 1
 0
-0
+1
 Theo quan điểm của chủ nghĩa duy vật biện chứng vật chất với tư cách là phạm trù triết học có đặc tính:
 Vô hạn, vô tận, vĩnh viễn, tồn tại độc lập với ý thức 
 Có giới hạn, có sinh ra và có mất đi 
@@ -565,7 +517,7 @@ Vấn đề quan hệ giữa vật chất và ý thức
 Vấn đề giữa tư duy và tồn tại
 1
 0
-0
+1
 Quan điểm vật chất và ý thức là hai nguyên thể đầu tiên cùng song song tồn tại, là quan điểm của trường phái triết học:
 Duy vật biện chứng
 Duy tâm khách quan 
@@ -604,14 +556,6 @@ Tính sáng tạo năng động
 Tính quy định bởi vật phản ánh 
 Cả a b c đều đúng
 2
-0
-0
-Ăngghen viết: “… là điều kiện cơ bản đầu tiên của toàn bộ đời sống loài người và như thể đến một mức mà trên một ý nghĩa nào đó chúng ta phải nói…đã sáng tạo ra bản thân con người”. Hãy điền từ thích hợp vào chỗ trống để hoàn thiện:
-Lao động 
-vật chất
-Tự nhiên 
-Sản xuất
-1
 0
 0
 Xem xét các sự vật theo quan điểm toàn diện yêu cầu chúng ta phải:
@@ -870,14 +814,6 @@ Nguyên lý về tính liên tục và tính gián đoạn của thế giới v�
 3
 0
 0
-Cơ sở lý luận của quan điểm toàn diện là nguyên lý: 
-Nguyên lý về sự phát triển 
-Nguyên lý về mối liên hệ phổ biến 
-Nguyên lý về sự tồn tại khách quan của thế giới vật chất 
-Nguyên lý về tính đa dạng phong phú của thế giới vật chất
-2
-0
-0
 Trong các quan điểm sau đây đâu là quan điểm siêu hình về sự phát triển 
 Chất của sự vật không thay đổi gì trong quá trình tồn tại và phát triển của chúng 
 Phát triển là sự chuyển hóa từ những sự thay đổi về lượng thành những sự thay đổi về chất 
@@ -892,14 +828,6 @@ Triết học duy vật siêu hình
 Triết học biện chứng duy tâm
 Triết học hiện sinh
 2
-0
-0
-Quan điểm phát triển là quá trình vận động tiến lên theo con đường xoáy ốc là quan điểm của trường phái triết học:
-Quan điểm siêu hình 
-Quan điểm triết trung và ngụy biện 
-Quan điểm biện chứng 
-Quan điểm duy tâm
-3
 0
 0
  Theo quan điểm của chủ nghĩa duy vật biện chứng nhận định nào sau đây là sai
@@ -966,14 +894,6 @@ Không có cái chung thuần túy tồn tại ngoài cái riêng, cái chung t�
 4
 0
 0
-Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng:
-Có thể coi nguyên nhân và kết quả nằm ở hai sự vật khác nhau 
-Không thể coi nguyên nhân và kết quả nằm ở hai sự vật khác nhau 
-Nguyên nhân và kết quả không cùng một kết cấu vật chất 
-Nguyên nhân và kết quả là tất nhiên
-2
-0
-0
 Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
 Nội dung và hình thức không tách rời nhau 
 Nội dung và hình thức luôn luôn phù hợp với nhau 
@@ -996,14 +916,6 @@ Bản chất nào hiện tượng đó bản chất hoàn toàn đồng nhất v
 Bản chất nào hiện tượng đó, bản chất thay đổi hiện tượng biểu hiện nó cũng thay đổi.
 Bản chất là cái vĩnh viễn
 3
-0
-0
- Dấu hiệu để phân biệt khả năng với hiện thực là:
-Sự có mặt và không có mặt trên thực tế 
-Sự nhận biết được hay không nhận biết được 
-Sự xác định hay không xác định 
-Khả năng không tồn tại
-1
 0
 0
 Theo quan điểm của chủ nghĩa duy vật biện chứng: 
@@ -1158,22 +1070,6 @@ Phủ định bài trừ nhau
 4
 0
 0
-Trong mâu thuẫn biện chứng các mặt đối lập quan hệ với nhau:
-Chỉ thống nhất với nhau 
-Chỉ có mặt đấu tranh với nhau 
-Bình đẳng với nhau 
-Vừa thống nhất vừa đấu tranh với nhau.
-4
-0
-0
-Hai xu hướng tác động của các mặt đối lập, xu hướng quy định sự biến đổi thường xuyên của sự vật:
-Thống nhất của các mặt đối lập 
-Đấu tranh của các mặt đối lập 
-Không có xu hướng nào 
-Sự tồn tại đồng thời của sự vật hiện tượng
-2
-0
-0
 Mâu thuẫn quy định bản chất của sự vật thay đổi cùng với sự thay đổi căn bản về chất của sự vật gọi là
 Mâu thuẫn chủ yếu 
 Mâu thuẫn bên trong 
@@ -1213,7 +1109,7 @@ Quan điểm biện chứng duy tâm
 Quan điểm duy tâm khách quan
 1
 0
-0
+1
 Sự phủ định để đưa sự vật dường như quay lại điểm xuất phát ban đầu nhưng trên cơ sở cao hơn, tiến bộ hơn, trong phép biện chứng gọi là:
 Phủ định biện chứng
 Phủ định sạch trơn
@@ -3621,6 +3517,110 @@ Hao mòn hữu hình và hao mòn vật chất.
 Hao mòn hữu hình và hao mòn do sử dụng.
 2
 0
+0
+Quan điểm phát triển là quá trình vận động tiến lên theo con đường xoáy ốc là quan điểm của trường phái triết học:
+Quan điểm siêu hình 
+Quan điểm triết trung và ngụy biện 
+Quan điểm biện chứng 
+Quan điểm duy tâm
+3
+1
+0
+ Đối với thế giới quan tôn giáo, phát minh của Côpécních có ý nghĩa gì? 
+Củng cố thế giới quan tôn giáo 
+Không có ảnh hưởng gì đối với thế giới quan tôn giáo 
+Bác bỏ nền tảng của thế giới quan tôn giáo 
+Chứng minh tính hợp lý của kinh thánh
+3
+1
+0
+Nhà triết học cho rằng “nước” là thực thể đầu tiên của thế giới và quan điểm đó thuộc trường phái triết học:
+Talet - Chủ nghĩa duy vật chất phác
+Điđrô - chủ nghĩa duy vật biện chứng 
+Béccơli - chủ nghĩa duy tâm chủ quan 
+Platon - chủ nghĩa duy tâm khách quan
+1
+1
+0
+Trong mâu thuẫn biện chứng các mặt đối lập quan hệ với nhau:
+Chỉ thống nhất với nhau 
+Chỉ có mặt đấu tranh với nhau 
+Bình đẳng với nhau 
+Vừa thống nhất vừa đấu tranh với nhau.
+4
+1
+0
+Ăngghen viết: “… là điều kiện cơ bản đầu tiên của toàn bộ đời sống loài người và như thể đến một mức mà trên một ý nghĩa nào đó chúng ta phải nói…đã sáng tạo ra bản thân con người”. Hãy điền từ thích hợp vào chỗ trống để hoàn thiện:
+Lao động 
+vật chất
+Tự nhiên 
+Sản xuất
+1
+1
+0
+ Triết học nghiên cứu thế giới như thế nào? 
+Như một đối tượng vật chất cụ thể 
+Như một hệ đối tượng vật chất nhất định 
+Như một chỉnh thể thống nhất 
+Như một hình thức vật chất bình thường
+3
+1
+0
+Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng:
+Có thể coi nguyên nhân và kết quả nằm ở hai sự vật khác nhau 
+Không thể coi nguyên nhân và kết quả nằm ở hai sự vật khác nhau 
+Nguyên nhân và kết quả không cùng một kết cấu vật chất 
+Nguyên nhân và kết quả là tất nhiên
+2
+1
+0
+Hai xu hướng tác động của các mặt đối lập, xu hướng quy định sự biến đổi thường xuyên của sự vật:
+Thống nhất của các mặt đối lập 
+Đấu tranh của các mặt đối lập 
+Không có xu hướng nào 
+Sự tồn tại đồng thời của sự vật hiện tượng
+2
+1
+0
+ Dấu hiệu để phân biệt khả năng với hiện thực là:
+Sự có mặt và không có mặt trên thực tế 
+Sự nhận biết được hay không nhận biết được 
+Sự xác định hay không xác định 
+Khả năng không tồn tại
+1
+1
+0
+Học thuyết về vũ trụ của Nicôlai Côpécních có ý nghĩa như thế nào đối với sự phát triển của khoa học tự nhiên? 
+Đánh dấu sự ra đời của khoa học tự nhiên 
+Đánh dấu bước chuyển từ khoa học tự nhiên thực nghiệm sang khoa học tự nhiên lý luận 
+Đánh dấu sự giải phóng khoa học tự nhiên khỏi thần học và tôn giáo
+Khôi phục khoa học tự nhiên thời kỳ cổ đại
+3
+1
+0
+Cơ sở lý luận của quan điểm toàn diện là nguyên lý: 
+Nguyên lý về sự phát triển 
+Nguyên lý về mối liên hệ phổ biến 
+Nguyên lý về sự tồn tại khách quan của thế giới vật chất 
+Nguyên lý về tính đa dạng phong phú của thế giới vật chất
+2
+1
+0
+Hãy sắp xếp theo trình tự xuất hiện từ sớm nhất đến muộn nhất các hình thức thế giới quan (TGQ) sau: 
+TGQ Tôn giáo - TGQ thần thoại - TGQ triết học 
+TGQ Thần thoại – TGQ tôn giáo - TGQ triết học 
+TGQ Triết học – TGQ tôn giáo - TGQ thần thoại 
+TGQ Thần thoại - TGQ triết học – TGQ tôn giáo 
+2
+1
+0
+Các tiền đề khoa học tự nhiên góp phần minh chứng tính đúng đắn về thế giới quan và phương pháp luận của Chủ nghĩa Mác là :
+Quy luật bảo toàn và chuyển hóa năng lượng
+Thuyết tiến hóa
+Thuyết tế bào
+Cả a, b và c
+4
+1
 0
 Nhà Triết học nào trình bày toàn bộ thế giới tự nhiên, lịch sử và tư duy trong sự vận động, biến đổi và phát triển:
 Đềcáctơ

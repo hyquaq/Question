@@ -21,6 +21,7 @@ def inputStudyed(path='studyed.txt'):
 
         countQues = int(len(lines) / 8)
         input("we have {} question.".format(countQues))
+
         managerQuestion = ManagerQuestion()
         for i in range(0, 8 * (countQues - 1) + 1, 8):
             ques = Question(ques=lines[i],
@@ -40,12 +41,12 @@ def inputStudyed(path='studyed.txt'):
 
 
 if __name__ == '__main__':
-    path = 'out-studyed.txt'
+    path = input("enter path: ")
     if os.path.isfile(path):
         manager = inputStudyed(path)
         if manager != None:
             manager.study()
-        if manager.save():
+        if manager.save(path):
             print('see yah')
         else:
             print('error. all answer is not save')

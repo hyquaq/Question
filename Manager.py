@@ -29,6 +29,7 @@ class ManagerQuestion:
         print("==>Welcome to my Study<==")
         print('Please enter if you can continue')
 
+        numberAnswered = 0
         while True:
             self.list.sort(key=mySort)
             # random choice in 1/3 question first in list
@@ -37,7 +38,9 @@ class ManagerQuestion:
             print(ques)
 
             userChoose = str(
-                input("enter 1 2 3 4 or cancel(c) offer(o): "))
+                input("[{}/{}] enter 1 2 3 4 or cancel(c) offer(o): ".format(numberAnswered, self.count)))
+            numberAnswered += 1
+
             while (userChoose == ''
                    or not (userChoose == '1' or userChoose == '2'
                            or userChoose == '3' or userChoose == '4' or userChoose == 'c' or userChoose == 'o')):
@@ -47,6 +50,10 @@ class ManagerQuestion:
                 break
 
             if (userChoose == 'o'):
+                print('1. thay doi dap an cau hien tai.')
+
+                print('2. show n cau sai nhieu nhat')
+                print('3. xuat ra n cau co ti le (sai - dung) > 0.')
                 print('developing... coming soon')
                 continue
 
@@ -84,6 +91,12 @@ class Question:
         self.key = key
         self.cRight = cRight
         self.cWrong = cWrong
+
+    def changeKey(self):
+        newKey = str(input("please enter new key 1 2 3 4: "))
+        while (not (newKey == '1' or newKey == '2' or newKey == '3' or newKey == '4')):
+            newKey = str(input("enter again: "))
+        self.key = newKey
 
     def showTitle(self):
         print("Cau hoi: {}\n".format(self.ques))
