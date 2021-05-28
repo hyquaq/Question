@@ -1,4 +1,5 @@
 import random
+from tkinter import *
 
 
 def inputInt(content):
@@ -8,6 +9,34 @@ def inputInt(content):
             return choose
         except Exception as e:
             print('enter again!')
+
+
+def clickA(ques):
+    if int(ques.key) == 1:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+
+
+def clickB(ques):
+    if int(ques.key) == 2:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+
+
+def clickC(ques):
+    if int(ques.key) == 3:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+
+
+def clickD(ques):
+    if int(ques.key) == 4:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
 
 
 class ManagerQuestion:
@@ -32,68 +61,42 @@ class ManagerQuestion:
             print("{} - {}/{}".format(i,
                   self.list[i].cRight, self.list[i].cWrong))
 
-    def study(self):
-        # title game
-        print("==>Welcome to my Study<==")
+    # def study(self):
+    #     numberAnswered = 0
 
-        numberAnswered = 0
-        while True:
-            self.sort()
-            # random choice in 1/3 question first in list
-            # because they are question you is wrong
-            ques = random.choice(self.list[0:int(self.count / 3)])
-            print(ques)
+    #     ques = random.choice(self.list[0:int(self.count / 3)])
 
-            # user choose
-            userChoose = str(
-                input("[{}/{}] enter 1 2 3 4 or cancel(c) offer(o): ".format(numberAnswered, self.count)))
-            while (userChoose == ''
-                   or not (userChoose == '1' or userChoose == '2'
-                           or userChoose == '3' or userChoose == '4' or userChoose == 'c' or userChoose == 'o')):
-                userChoose = str(input("enter again: "))
+    #     # window.geometry("400x400")
+    #     # window.minsize(400, 400)
+    #     # window.maxsize(400, 400)
 
-            # offer
-            if (userChoose == 'o'):
-                print('1. thay doi dap an cau hien tai.')
-                print('2. show n cau sai nhieu nhat.')
-                print('3. xuat ra n cau co ti le (sai - dung) > 0.')
+    #     # title game
+    #     window.title = "==>Welcome to my Study<=="
+    #     window.config(background='#fcb353')
 
-                # choose offer
-                choose = inputInt('enter offer: ')
-                if choose == 1:
-                    ques.setKey()
-                elif choose == 2:
-                    nQuestion = inputInt('enter n = ')
-                    while nQuestion < 0 or nQuestion >= self.count:
-                        nQuestion = inputInt()
-                    mostWrongs = self.getQuestionMostWrongs(nQuestion)
-                    pathMostWrong = input("enter path to store: ")
-                    self.write(mostWrongs, pathMostWrong)
-                elif choose == 3:
-                    pass
-                else:
-                    print("developing... coming soon")
-                continue
+    #     frame = Frame(window)
+    #     frame.pack()
 
-            # cancel
-            if (userChoose == 'c'):
-                break
+    #     question = Label(frame, text=ques.ques)
+    #     question.pack()
+    #     btnA = Button(frame, text=ques.ans1, command=lambda: clickA(ques))
+    #     btnA.pack(side=TOP)
 
-            # 1 2 3 4
-            if (ques.check(userChoose)):
-                print("congratulations")
-                ques.right()
-            else:
-                print("you choose {} is not answer, {}".format(
-                    userChoose, ques.getKey()))
-                input()
-                ques.wrong()
-            numberAnswered += 1
+    #     btnB = Button(frame, text=ques.ans2, command=lambda: clickB(ques))
+    #     btnB.pack(side=TOP)
+
+    #     btnC = Button(frame, text=ques.ans3, command=lambda: clickC(ques))
+    #     btnC.pack(side=TOP)
+
+    #     btnD = Button(frame, text=ques.ans4, command=lambda: clickD(ques))
+    #     btnD.pack(side=TOP)
+
+    #     window.mainloop()
 
     def write(self, source, path='out-studyed.txt'):
         print("i'm storing...")
         try:
-            with open(path, mode='w', encoding='utf-8') as fo:
+            with open(path, mode='w', encoding='utf8') as fo:
                 for e in source:
                     fo.write("{}\n".format(e.getInformation()))
                 return True
@@ -103,7 +106,7 @@ class ManagerQuestion:
     def save(self, path='out-studyed.txt'):
         print("i'm storing...")
         try:
-            with open(path, mode='w', encoding='utf-8') as fo:
+            with open(path, mode='w', encoding='utf8') as fo:
                 self.sort()
                 for e in self.list:
                     fo.write("{}\n".format(e.getInformation()))

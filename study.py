@@ -1,5 +1,7 @@
 import os
 from Manager import ManagerQuestion, Question
+from tkinter import *
+import random
 
 
 def removeNewline(sources):
@@ -15,14 +17,14 @@ def removeNewline(sources):
 
 def inputStudyed(path='studyed.txt'):
     try:
-        file = open(path, mode='r', encoding='utf-8')
+        file = open(path, mode='r', encoding='utf8')
         lines = file.readlines()
         lines = removeNewline(lines)
 
         countQues = int(len(lines) / 8)
-        input("we have {} question.".format(countQues))
+        print("we have {} question.".format(countQues))
 
-        managerQuestion = ManagerQuestion()
+        questions = []
         for i in range(0, 8 * (countQues - 1) + 1, 8):
             ques = Question(ques=lines[i],
                             ans1=lines[i + 1],
@@ -32,40 +34,90 @@ def inputStudyed(path='studyed.txt'):
                             key=lines[i+5],
                             cRight=lines[i+6],
                             cWrong=lines[i+7])
-            managerQuestion.addQuestion(ques)
+            questions.append(ques)
         file.close()
     except Exception as e:
         print(str(e))
         return None
-    return managerQuestion
+    return questions
 
 
-if __name__ == '__main__':
-    print('hi welcome to App.')
-    sections = os.listdir(os.getcwd())
-    # filter list
-    sections = [e for e in sections if '.txt' in e]
-    sections.sort()
-    for i in range(len(sections)):
-        print("{} : {}.".format(i, sections[i]))
-
-    choose = ''
-    while True:
-        try:
-            choose = int(
-                input("enter number in [{} - {}]: ".format(0, len(sections) - 1)))
-            if os.path.isfile(sections[choose]):
-                break
-        except Exception as e:
-            pass
-
-    if os.path.isfile(sections[choose]):
-        manager = inputStudyed(sections[choose])
-        if manager != None:
-            manager.study()
-        if manager.save(sections[choose]):
-            print('see yah')
-        else:
-            print('error. all answer is not save')
+def clickA():
+    if int(ques.key) == 1:
+        print('bingo')
     else:
-        print("please run xuLyCauHoi.py first")
+        print('right answer is {}'.format(ques.getKey()))
+    nextQues()
+
+
+def clickB():
+    if int(ques.key) == 2:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+    nextQues()
+
+
+def clickC():
+    if int(ques.key) == 3:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+    nextQues()
+
+
+def clickD():
+    if int(ques.key) == 4:
+        print('bingo')
+    else:
+        print('right answer is {}'.format(ques.getKey()))
+    nextQues()
+
+
+def changeQuestion():
+    LabelQues.config(text=ques.ques, wraplength=500, height=3, bg='#fcb353', padd)
+    btnA.config(text=ques.ans1,
+                bd=0, bg='#45ccde', justify=LEFT)
+    btnB.config(text=ques.ans2,
+                bd=0, bg='#45ccde')
+    btnC.config(text=ques.ans3,
+                bd=0, bg='#45ccde')
+    btnD.config(text=ques.ans4,
+                bd=0, bg='#45ccde')
+
+
+def nextQues():
+    questions.sort(key=lambda e: (
+        int(e.cWrong), -int(e.cRight)), reverse=True)
+    global ques
+    ques = random.choice(questions[0: int(len(questions) / 3)])
+    changeQuestion()
+
+
+window = Tk()
+# title game
+window.title = "==>Welcome to my Study<=="
+window.config(background='#fcb353')
+
+frame = Frame(window, width=500, height=500, bg='#fcb353')
+frame.pack()
+
+questions = inputStudyed('./out.txt')
+ques = questions[0]
+
+LabelQues = Label(frame)
+LabelQues.pack()
+btnA = Button(frame, command=clickA)
+btnA.pack(side=TOP)
+
+btnB = Button(frame, command=clickB)
+btnB.pack(side=TOP)
+
+btnC = Button(frame, command=clickC)
+btnC.pack(side=TOP)
+
+btnD = Button(frame, command=clickD)
+btnD.pack(side=TOP)
+changeQuestion()
+
+window.mainloop()

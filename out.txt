@@ -1,11 +1,11 @@
- Quan hệ giữa khoa học tự nhiên với thần học ở thời kỳ Phục Hưng như thế nào? 
-Khoa học tự nhiên hoàn toàn phụ thuộc vào thần học và tôn giáo 
-Khoa học tự nhiên hoàn toàn độc lập với thần học và tôn giáo 
-Khoa học tự nhiên có mối quan hệ quyết định đối với thần học và tôn giáo
-Khoa học tự nhiên dần dần độc lập với thần học và tôn giáo 
-4
+Mâu thuẫn quy định bản chất của sự vật thay đổi cùng với sự thay đổi căn bản về chất của sự vật gọi là
+Mâu thuẫn chủ yếu 
+Mâu thuẫn bên trong 
+Mâu thuẫn cơ bản 
+Mâu thuẫn đối kháng
+2
 0
-1
+2
 Triết học của các nhà tư tưởng thời Phục Hưng có đặc điểm gì? 
 Có tính chất duy vật tự phát 
 Có tính duy tâm khách quan 
@@ -19,14 +19,6 @@ Cảm giác, ý thức của chúng ta có khả năng phản ánh đúng thế 
 Cảm giác, ý thức của chúng ta không thể phản ánh đúng thế giới vật chất 
 Cảm giác, ý thức phụ thuộc thủ động vào thế giới vật chất 
 Cảm giác, ý thức là nguồn gốc của thế giới vật chất
-1
-0
-1
-Mặt thứ nhất của vấn đề cơ bản triết học là:
-Giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết định cái nào 
-Con người có khả năng nhận thức được thế giới hay không 
-Vấn đề quan hệ giữa vật chất và ý thức 
-Vấn đề giữa tư duy và tồn tại
 1
 0
 1
@@ -70,6 +62,158 @@ Sự tương đồng của các mặt đối lập
 2
 0
 1
+Trong một mối quan hệ nhất định cái gì xác định sự vật:
+Tính quy định về lượng
+Tính quy định về chất 
+Thuộc tính của sự vật 
+Tính ngẫu nhiên
+2
+0
+1
+Phát minh nào trong khoa học tự nhiên nửa đầu thế kỷ thứ 19 vạch ra sự thống nhất giữa thế giới động vật và thực vật:
+Học thuyết tế bào
+học thuyết tiến hóa 
+Định luật bảo toàn và chuyển hóa năng lượng 
+Thuyết duy lý
+1
+0
+1
+Vị trí của quy luật phủ định của phủ định trong phép biện chứng duy vật:
+Chỉ ra nguồn gốc của sự phát triển 
+Chỉ ra cách thức của sự phát triển 
+Chỉ ra xu hướng của phát triển
+Cả a b và c
+3
+0
+1
+Trong các đặc trưng của định nghĩa giai cấp của Lênin đặc trưng nào là quyết định nhất 
+Có địa vị khác nhau trong một hệ thống sản xuất nhất định trong lịch sử 
+Có mối quan hệ khác nhau đối với tư liệu sản xuất 
+Có vai trò khác nhau trong tổ chức lao động xã hội 
+Có sự khác nhau về phương thức và quy mô hưởng thụ của cải xã hội
+1
+0
+1
+Phép biện chứng duy vật có mấy nguyên lý cơ bản:
+1
+2
+3
+4
+2
+0
+1
+Quan điểm của chủ nghĩa duy vật biện chứng về tính sáng tạo của ý thức là:
+Ý thức tạo ra Vật Chất 
+Ý thức tạo ra sự vật trong hiện thực
+Ý thức không sinh không diệt 
+Ý thức tạo ra hình ảnh mới về sự vật trong tư duy
+4
+0
+1
+Brunô đồng ý với quan niệm của ai về vũ trụ? 
+Ptôlêmê 
+Platôn 
+Nicôlai Côpécních 
+Hêcraclít
+3
+0
+1
+Theo quan điểm của chủ nghĩa duy vật biện chứng trong kết cấu của ý thức yếu tố nào cơ bản và cốt lõi nhất:
+Tri thức
+Tình cảm
+Ý chí
+Niềm tin
+1
+0
+1
+Sự khác nhau cơ bản giữa phản ánh ý thức và các hình thức phản ảnh khác nhau của thế giới vật chất là:
+Tính đúng đắn trung thực với vật phản ánh 
+Tính sáng tạo năng động 
+Tính quy định bởi vật phản ánh 
+Cả a b c đều đúng
+2
+0
+1
+Những nội dung chủ yếu của chủ nghĩa Mác Lênin thể hiện bản chất:
+Cách mạng và khoa học 
+Thế giới quan duy vật triệt để
+Phương pháp luận biện chứng
+Dân chủ
+1
+0
+1
+Định nghĩa vật chất của Lênin bao quát đặc tính quan trọng nhất của mỗi dạng vật chất để phân biệt với ý thức đó là đặc tính:
+Thực tại khách quan độc lập với ý thức của con người 
+Vận động và biến đổi 
+Có khối lượng và có quản tính 
+Tồn tại
+1
+0
+1
+Chọn câu đúng:
+Ngôn ngữ là hệ thống tín hiệu vật chất mang nội dung ý thức 
+Ngôn ngữ là cái vỏ vật chất của tư duy 
+Ngôn ngữ là hiện tượng tinh thần 
+Ngôn ngữ có tính vật chất
+2
+0
+1
+Những nhà khoa học và triết học Côpécních, Brunô, thuộc thời kỳ nào? 
+Thời kỳ cổ đại 
+Thời kỳ trung cổ 
+Thời kỳ Phục Hưng 
+Thời kỳ cận đại
+3
+0
+1
+Quan niệm của chủ nghĩa duy vật biện chứng về quan hệ giữa nội dung và hình thức
+Nội dung quyết định hình thức trong sự phát triển của sự vật 
+Hình thức quyết định nội dung 
+Tồn tại hình thức thuần túy không chứa đựng nội dung 
+Cả a, b, c đều sai
+1
+0
+1
+Quy luật cơ bản của sự vận động và phát triển xã hội:
+Quy luật về sự phù hợp của quan hệ sản xuất với tính chất và trình độ phát triển của lực lượng sản xuất 
+Quy luật về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng 
+Quy luật chuyển hóa từ những sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại 
+Câu a và c đúng
+1
+0
+1
+Quan hệ sản xuất là quan hệ giữa người với người trong quá trình sản xuất nó là quan hệ:
+Tồn tại chủ quan bị quy định bởi chế độ kinh tế 
+Tồn tại chủ quan bị quy định bởi chế độ chính trị xã hội 
+Tồn tại chủ quan bị quy định bởi văn hóa 
+Tồn tại khách quan độc lập với ý thức và không phụ thuộc vào ý thức của con người
+4
+0
+1
+Mặt thứ nhất của vấn đề cơ bản triết học là:
+Giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết định cái nào 
+Con người có khả năng nhận thức được thế giới hay không 
+Vấn đề quan hệ giữa vật chất và ý thức 
+Vấn đề giữa tư duy và tồn tại
+1
+1
+1
+Chủ nghĩa Mác Lênin thể hiện bản chất:
+Cách mạng và khoa học 
+Dân tộc và hiện đại
+Khoa học và dân tộc 
+Toàn dân
+1
+1
+1
+ Quan hệ giữa khoa học tự nhiên với thần học ở thời kỳ Phục Hưng như thế nào? 
+Khoa học tự nhiên hoàn toàn phụ thuộc vào thần học và tôn giáo 
+Khoa học tự nhiên hoàn toàn độc lập với thần học và tôn giáo 
+Khoa học tự nhiên có mối quan hệ quyết định đối với thần học và tôn giáo
+Khoa học tự nhiên dần dần độc lập với thần học và tôn giáo 
+4
+1
+1
 Chủ nghĩa Mác – Lênin là:
 Học thuyết khoa học về sự nghiệp giải phóng giai cấp vô sản và nhân dân lao động khỏi áp bức, bóc lột.
 Thế giới quan và phương pháp luận khoa học của các khoa học,
@@ -86,28 +230,12 @@ quan niệm chung của con người về thế giới; về con người và v�
 2
 0
 0
-Phương pháp luận là:
-khoa học về nhận thức.
-phương pháp tiếp cận nhận thức và thực tiễn.
-Lý luận hay khoa học về phương pháp.
-Lý luận hay khoa học về phương pháp – định hướng cách tiếp cận nhận thức và thực tiễn.
-4
-0
-0
 Những điều kiện, tiền đề của sự ra đời Chủ nghĩa Mác – Lênin:
 Kinh tế chính trị Mác – Lênin, tư tưởng triết học và lịch sử nhân loại.
 Triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội khoa học.
 Điều kiện kinh tế - xã hội, điều kiện lý luận, điều kiện khoa học tự nhiên.
 Điều kiện lý luận, điều kiện khoa học tự nhiên và hoàn cảnh lịch sử.
 3
-0
-0
-Các bộ phận lý luận cơ bản cấu thành Chủ nghĩa Mác – Lênin là:
-Triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội khoa học.
-Kinh tế chính trị Mác – Lênin, tư tưởng triết học và lịch sử nhân loại.
-Triết học, kinh tế học và xã hội học.
-Tư tưởng văn hóa Phục Hưng Pháp; triết học cổ điển Đức, kinh tế chính trị cổ điển Anh. 
-1
 0
 0
 C.Mác và Ph.Ăngghen đã trực tiếp kế thừa di sản tư tưởng của những nhà triết học cổ điển Đức nào để xây dựng học thuyết của mình:
@@ -140,14 +268,6 @@ Triết học ra đời sớm nhất ở đâu?
 Ai cập, Ấn Độ, Trung Quốc 
 Châu Mỹ, Châu Phi, Châu Âu
 2
-0
-0
-Triết học là gì? 
-Triết học là tri thức về thế giới tự nhiên 
-Triết học là tri thức về tự nhiên và xã hội 
-Triết học là tri thức lý luận của con người về thế giới 
-Triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới 
-4
 0
 0
 Triết học ra đời trong điều kiện nào? 
@@ -206,14 +326,6 @@ Khoa học tự nhiên hoàn toàn phụ thuộc vào thần học và tôn giá
 3
 0
 0
-Những nhà khoa học và triết học Côpécních, Brunô, thuộc thời kỳ nào? 
-Thời kỳ cổ đại 
-Thời kỳ trung cổ 
-Thời kỳ Phục Hưng 
-Thời kỳ cận đại
-3
-0
-0
 Thời Phục Hưng ở Tây Âu là vào thế kỷ nào? 
 Thế kỷ XIV – XV 
 Thế kỷ XV – XVI 
@@ -238,36 +350,12 @@ Pháp
 3
 0
 0
-Brunô là nhà khoa học và triết học của nước nào? 
-Đức 
-Pháp 
-Ba lan 
-Italia
-4
-0
-0
-Brunô đồng ý với quan niệm của ai về vũ trụ? 
-Ptôlêmê 
-Platôn 
-Nicôlai Côpécních 
-Hêcraclít
-3
-0
-0
 Brunô đã chứng minh về tính chất gì của thế giới (của vũ trụ)? 
 Tính tồn tại thuần túy của thế giới vật chất 
 Tính thống nhất trên cơ sở tinh thần của vật chất 
 Tính thống nhất vật chất của thế giới (của vũ trụ)
 Tính thống nhất trên cơ sở tinh thần của thế giới
 3
-0
-0
-Khi xây dựng phương pháp mới của khoa học, Brunô đòi hỏi khoa học tự nhiên phải dựa trên cái gì? 
-Dựa trên những giáo điều tôn giáo 
-Dựa trên ý muốn chủ quan 
-Dựa trên tình cảm, khát vọng 
-Dựa trên thực nghiệm
-4
 0
 0
 Brunô bị tòa án tôn giáo xử tội như thế nào? 
@@ -334,14 +422,6 @@ Chủ nghĩa duy tâm khách quan
 2
 0
 0
-“Con người sáng tạo ra thượng đế, bản tính con người là tình yêu, tôn giáo cũng là một tình yêu”, quan điểm này:
-Arixtốt
-Phoiơbắc
-Hêghen
-Can tơ
-2
-0
-0
 Ưu điểm lớn nhất của triết học cổ điển Đức (Hegel và Phoiơbắc) là:
 Phát triển tư tưởng duy vật về thế giới của thế kỷ XVII-XVIII
 Khắc phục triệt để quan điểm siêu hình của chủ nghĩa duy vật chất phác.
@@ -388,14 +468,6 @@ Học thuyết tiến hóa
  Định luật bảo toàn và chuyển hóa năng lượng 
 Thuyết duy nghiệm
 2
-0
-0
-Phát minh nào trong khoa học tự nhiên nửa đầu thế kỷ thứ 19 vạch ra sự thống nhất giữa thế giới động vật và thực vật:
-Học thuyết tế bào
-học thuyết tiến hóa 
-Định luật bảo toàn và chuyển hóa năng lượng 
-Thuyết duy lý
-1
 0
 0
 Tác phẩm nào của các mác và Ăngghen đánh dấu sự hoàn thành về cơ bản triết học Mác nói riêng và chủ nghĩa Mác nói chung:
@@ -454,22 +526,6 @@ Chủ nghĩa duy Ngã
 3
 0
 0
-Nhà triết học nào coi “lửa” là thực thể đầu tiên của thế giới và đó là lập trường của nhà triết học:
-Đêmôcrit - chủ nghĩa duy vật chất  phác
-Heraclit - chủ nghĩa duy chất phác 
-Plato - chủ nghĩa duy tâm khách quan 
-Anaximen - chủ nghĩa duy vật tự phát
-2
-0
-0
-Nhà triết học nào cho nguyên tử và khoảng không là thực thể đầu tiên của thế giới và đó là lập trường triết học
-Đêmôcrit - chủ nghĩa duy vật chất phác 
-Heraclit - chủ nghĩa duy vật chất phác 
-Platon - chủ nghĩa duy tâm khách quan 
-Aristote - chủ nghĩa duy vật tự phát
-1
-0
-0
 Đồng nhất vật chất nói chung,  với quan điểm cho rằng vật chất là nguyên tử -  phần một phần tử nhỏ nhất không thể phân chia được nữa. Đó là quan điểm của trường phái triết học:
 Chủ nghĩa duy vật siêu hình thế kỷ thứ 17 18 
 Chủ nghĩa duy vật chất phác
@@ -518,14 +574,6 @@ Nhà nước và cách mạng
 2
 0
 0
-Định nghĩa vật chất của Lênin bao quát đặc tính quan trọng nhất của mỗi dạng vật chất để phân biệt với ý thức đó là đặc tính:
-Thực tại khách quan độc lập với ý thức của con người 
-Vận động và biến đổi 
-Có khối lượng và có quản tính 
-Tồn tại
-1
-0
-0
 Trường phái triết học nào cho rằng: “Vận động bao gồm mọi sự biến đổi nói chung,  là phương thức tồn tại của vật chất”
 Chủ nghĩa duy vật siêu hình 
 Chủ nghĩa duy vật biện chứng 
@@ -540,14 +588,6 @@ Có giới hạn, có sinh ra và có mất đi
 Tồn tại cảm tính 
 Vĩnh viễn tồn tại
 1
-0
-0
-Chọn câu đúng:
-Ngôn ngữ là hệ thống tín hiệu vật chất mang nội dung ý thức 
-Ngôn ngữ là cái vỏ vật chất của tư duy 
-Ngôn ngữ là hiện tượng tinh thần 
-Ngôn ngữ có tính vật chất
-2
 0
 0
 Quan điểm vật chất và ý thức là hai nguyên thể đầu tiên cùng song song tồn tại, là quan điểm của trường phái triết học:
@@ -572,14 +612,6 @@ Vừa có vừa không
 Có thể hình thành được 
 Cả a b c đều sai
 1
-0
-0
-Sự khác nhau cơ bản giữa phản ánh ý thức và các hình thức phản ảnh khác nhau của thế giới vật chất là:
-Tính đúng đắn trung thực với vật phản ánh 
-Tính sáng tạo năng động 
-Tính quy định bởi vật phản ánh 
-Cả a b c đều đúng
-2
 0
 0
 Xem xét các sự vật theo quan điểm toàn diện yêu cầu chúng ta phải:
@@ -702,14 +734,6 @@ Quan hệ sản xuất
 3
 0
 0
-Ăngghen viết: “Các Mác đã phát hiện ra quy luật phát triển của….nghĩa là tìm ra cái sự thật đơn giản là trước hết con người cần phải ăn uống ở và mặt trước khi có thể lo đến chuyện làm chính trị, khoa học nghệ thuật và tôn giáo. Hãy điền từ thích hợp vào chỗ trống 
-Thế giới 
-Xã hội loài người 
-Tự nhiên 
-Vật chất
-2
-0
-0
 Con người phát triển và hoàn thiện mình chủ yếu là dựa vào yếu tố:
 Phát triển kinh tế xã hội 
 Đấu tranh giai cấp 
@@ -782,36 +806,12 @@ Công cụ lao động
 2
 0
 0
-Quan điểm của chủ nghĩa duy vật biện chứng về tính sáng tạo của ý thức là:
-Ý thức tạo ra Vật Chất 
-Ý thức tạo ra sự vật trong hiện thực
-Ý thức không sinh không diệt 
-Ý thức tạo ra hình ảnh mới về sự vật trong tư duy
-4
-0
-0
-Theo quan điểm của chủ nghĩa duy vật biện chứng trong kết cấu của ý thức yếu tố nào cơ bản và cốt lõi nhất:
-Tri thức
-Tình cảm
-Ý chí
-Niềm tin
-1
-0
-0
 Kết cấu theo chiều dọc của ý thức gồm những yếu tố:
 Tự ý thứ, tiềm thức và vô thức 
 Tri thức, niềm tin và ý chí 
 Cảm giác, khái niệm và phán đoán 
 Ý thức và tự ý thức
 1
-0
-0
-Phép biện chứng duy vật có mấy nguyên lý cơ bản:
-1
-2
-3
-4
-2
 0
 0
 Nguyên lý cơ bản của phép biện chứng duy vật là:
@@ -854,27 +854,11 @@ Sự thay thế cấu trúc xã hội
 3
 0
 0
-Ăngghen viết: “…đã sáng tạo ra bản thân con người”. Hãy chọn từ thích hợp điền vào….để hoàn thiện 
-Vật chất 
-Thượng đế 
-Lao động 
-Tự nhiên
-3
-0
-0
 Cấu trúc của một hình thái kinh tế xã hội bao gồm các yếu tố:
 Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng 
 Lực lượng sản xuất và quan hệ sản xuất 
 Quan hệ sản xuất và kiến trúc thượng tầng 
 Cơ sở hạ tầng và kiến trúc thượng tầng
-1
-0
-0
-Trong các đặc trưng của định nghĩa giai cấp của Lênin đặc trưng nào là quyết định nhất 
-Có địa vị khác nhau trong một hệ thống sản xuất nhất định trong lịch sử 
-Có mối quan hệ khác nhau đối với tư liệu sản xuất 
-Có vai trò khác nhau trong tổ chức lao động xã hội 
-Có sự khác nhau về phương thức và quy mô hưởng thụ của cải xã hội
 1
 0
 0
@@ -886,28 +870,12 @@ Hình thức đấu tranh đầu tiên của giai cấp vô sản chống giai c
 3
 0
 0
-Quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ giữa cái chung và cái riêng:
-Cái chung tồn tại khách quan bên ngoài cái riêng 
-Cái riêng tồn tại khách quan không bao chứa cái chung 
-Cái chung và cái riêng đều không tồn tại đồng thời 
-Không có cái chung thuần túy tồn tại ngoài cái riêng, cái chung tồn tại thông qua cái riêng
-4
-0
-0
 Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
 Nội dung và hình thức không tách rời nhau 
 Nội dung và hình thức luôn luôn phù hợp với nhau 
 Nội dung luôn luôn bằng với hình thức của nó 
 Không phải lúc nào nội dung và hình thức cũng phù hợp với nhau
 2
-0
-0
-Quan niệm của chủ nghĩa duy vật biện chứng về quan hệ giữa nội dung và hình thức
-Nội dung quyết định hình thức trong sự phát triển của sự vật 
-Hình thức quyết định nội dung 
-Tồn tại hình thức thuần túy không chứa đựng nội dung 
-Cả a, b, c đều sai
-1
 0
 0
 Theo quan điểm của chủ nghĩa duy vật biện chứng:
@@ -924,22 +892,6 @@ Trong hoạt động thực tiễn phải dựa vào hiện thực không cần 
 Trong hoạt động thực tiễn phải dựa vào hiện thực đồng thời phải tính đến khả năng 
 Hoạt động thực tiễn không bao hàm hoạt động sáng tạo
 3
-0
-0
-Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
-Chất là tính quy định vốn có của sự vật 
-Chất là tổng hợp hữu cơ các thuộc tính của sự vật nói lên sự vật là cái gì 
-Chất đồng nhất với thuộc tính 
-Chắc là cái phân biệt nó với cái khác
-3
-0
-0
-Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
-Chất tồn tại khách quan bên ngoài sự vật 
-Chất tồn tại khách quan gắn liền với sự vật 
-Không có chất thuần túy bên ngoài sự vật 
-Chất là cái vốn có của sự vật
-1
 0
 0
 Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
@@ -963,14 +915,6 @@ Trong quy luật lượng chất, nước chuyển từ trạng thái lỏng san
 Bước nhảy 
 Chuyển hóa 
 Tịnh Tiến
-2
-0
-0
-Trong một mối quan hệ nhất định cái gì xác định sự vật:
-Tính quy định về lượng
-Tính quy định về chất 
-Thuộc tính của sự vật 
-Tính ngẫu nhiên
 2
 0
 0
@@ -1004,14 +948,6 @@ Không phải sự biến đổi về chất nào cũng là kết quả của s�
 Chất không có tác động gì đến sự thay đổi của lượng 
 Chất biến đổi trước khi có sự biến đổi của lượng
 1
-0
-0
-Theo quan niệm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng:
-Phát triển của sự vật chỉ bao hàm sự thay đổi về lượng 
-Phát triển của sự vật chỉ bao hàm sự thay đổi về chất 
-Quá trình phát triển của sự vật là quá trình chuyển hóa từ sự thay đổi dần về lượng sang sự thay đổi về chất và ngược lại 
-Chất và lượng cùng biến đổi đồng thời
-3
 0
 0
  Trong hoạt động thực tiễn sai lầm của trì trệ bảo thủ là do không tôn trọng quy luật nào của phép biện chứng duy vật:
@@ -1062,14 +998,6 @@ Phủ định bài trừ nhau
 4
 0
 0
-Mâu thuẫn quy định bản chất của sự vật thay đổi cùng với sự thay đổi căn bản về chất của sự vật gọi là
-Mâu thuẫn chủ yếu 
-Mâu thuẫn bên trong 
-Mâu thuẫn cơ bản 
-Mâu thuẫn đối kháng
-2
-0
-0
 Mâu thuẫn nổi lên hàng đầu ở một giai đoạn phát triển nhất định của sự vật chi phối các mâu thuẫn khác trong giai đoạn đó được gọi là:
 Mâu thuẫn cơ bản
 Mâu thuẫn chủ yếu
@@ -1094,30 +1022,6 @@ Phủ định biện chứng giữ lại và cải biến những yếu tố cò
 1
 0
 0
-Sự phủ định để đưa sự vật dường như quay lại điểm xuất phát ban đầu nhưng trên cơ sở cao hơn, tiến bộ hơn, trong phép biện chứng gọi là:
-Phủ định biện chứng
-Phủ định sạch trơn
-Chuyển hóa 
-Lặp lại
-1
-0
-0
-Vị trí của quy luật phủ định của phủ định trong phép biện chứng duy vật:
-Chỉ ra nguồn gốc của sự phát triển 
-Chỉ ra cách thức của sự phát triển 
-Chỉ ra xu hướng của phát triển
-Cả a b và c
-3
-0
-0
-Trường phái triết học nào cho rằng thực tiễn là cơ sở chủ yếu và trực tiếp của nhận thức:
-Chủ nghĩa duy tâm khách quan 
-Chủ nghĩa duy vật siêu hình 
-Chủ nghĩa duy vật biện chứng 
-Chủ nghĩa Duy Nghĩa
-3
-0
-0
 Hoạt động nào sau đây là hoạt động thực tiễn:
 Mọi hoạt động vật chất của con người 
 Hoạt động tư duy sáng tạo ra các ý tưởng 
@@ -1126,43 +1030,11 @@ Hoạt động thực nghiệm khoa học
 4
 0
 0
-Triết học mác-lênin bao gồm:
-Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật siêu hình 
-Chủ nghĩa duy tâm và chủ nghĩa duy vật 
-Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử 
-Chủ nghĩa duy vật và chủ nghĩa duy tâm
-3
-0
-0
-Chủ nghĩa Mác Lênin thể hiện bản chất:
-Cách mạng và khoa học 
-Dân tộc và hiện đại
-Khoa học và dân tộc 
-Toàn dân
-1
-0
-0
-Trong triết học mác xít:
-Chủ nghĩa duy vật và phép siêu hình gắn liền với nhau 
-Chủ nghĩa duy tâm và phép biện chứng gắn liền với nhau 
-Chủ nghĩa duy vật và phép biện chứng gắn liền với nhau 
-Chủ nghĩa duy vật và chủ nghĩa duy tâm gắn liền với nhau
-3
-0
-0
 Với chủ nghĩa duy vật lịch sử đã vạch ra và làm sáng tỏ quy luật về mối quan hệ giữa:
 Lực lượng sản xuất và quan hệ sản xuất 
 Tư liệu sản xuất và đối tượng lao động 
 Quan hệ sản xuất và quan hệ phân phối sản phẩm 
 Các tầng lớp trong xã hội
-1
-0
-0
-Chủ nghĩa Mác Lênin là một học thuyết có tính chất:
-Mở không cứng nhắc 
-Đóng bất biến 
-Mở giáo đều 
-Mở vĩnh viễn
 1
 0
 0
@@ -1174,36 +1046,12 @@ Nghiên cứu tư duy
 1
 0
 0
-Những nội dung chủ yếu của chủ nghĩa Mác Lênin thể hiện bản chất:
-Cách mạng và khoa học 
-Thế giới quan duy vật triệt để
-Phương pháp luận biện chứng
-Dân chủ
-1
-0
-0
-Quy luật cơ bản của sự vận động và phát triển xã hội:
-Quy luật về sự phù hợp của quan hệ sản xuất với tính chất và trình độ phát triển của lực lượng sản xuất 
-Quy luật về mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng 
-Quy luật chuyển hóa từ những sự thay đổi về lượng dẫn đến sự thay đổi về chất và ngược lại 
-Câu a và c đúng
-1
-0
-0
 Tính chất của lực lượng sản xuất biểu hiện ở hai mức độ:
 Là tính chất cá nhân hay tính chất xã hội của lực lượng sản xuất 
 Là tính chất tập thể hay tính chất xã hội của lực lượng sản xuất 
 Câu a và b đều sai 
 Câu a và b đều đúng
 1
-0
-0
-Trình độ của lực lượng sản xuất thể hiện ở:
-Trình độ của người lao động, trình độ của công cụ lao động 
-Trình độ tổ chức lao động xã hội, trình độ tổ chức lao động xã hội 
-Trình độ ứng dụng khoa học vào sản xuất, trình độ phân công lao động xã hội 
-Cả a b c đều đúng
-4
 0
 0
 Nội dung của quy luật về sự phù hợp của quan hệ sản xuất với tính chất và trình độ của lực lượng sản xuất:
@@ -1243,14 +1091,6 @@ Xã hội loài người là một dạng phát triển đặc biệt của:
 Thế giới tinh thần
 Thế giới vật chất 
 Con người
-3
-0
-0
-Các Mác đã giải thích xã hội trên quan điểm:
-Chủ nghĩa duy vật siêu hình 
-Chủ nghĩa duy tâm biện chứng 
-Chủ nghĩa duy vật biện chứng 
-Chủ nghĩa duy thực
 3
 0
 0
@@ -1372,14 +1212,6 @@ Sự phát triển của hoạt động nghiên cứu khoa học cải tiến k�
 Sự phát triển của quan hệ sản quan hệ quốc tế hợp tác quốc tế 
 Không có phương án nào đúng
 1
-0
-0
-Quan hệ sản xuất là quan hệ giữa người với người trong quá trình sản xuất nó là quan hệ:
-Tồn tại chủ quan bị quy định bởi chế độ kinh tế 
-Tồn tại chủ quan bị quy định bởi chế độ chính trị xã hội 
-Tồn tại chủ quan bị quy định bởi văn hóa 
-Tồn tại khách quan độc lập với ý thức và không phụ thuộc vào ý thức của con người
-4
 0
 0
 Quan hệ giữ vai trò quyết định đối với những quan hệ khác trong quan hệ giữa người với người của quá trình sản xuất là:
@@ -3493,6 +3325,174 @@ Hao mòn hữu hình và hao mòn vật chất.
 Hao mòn hữu hình và hao mòn do sử dụng.
 2
 0
+0
+Trong triết học mác xít:
+Chủ nghĩa duy vật và phép siêu hình gắn liền với nhau 
+Chủ nghĩa duy tâm và phép biện chứng gắn liền với nhau 
+Chủ nghĩa duy vật và phép biện chứng gắn liền với nhau 
+Chủ nghĩa duy vật và chủ nghĩa duy tâm gắn liền với nhau
+3
+1
+0
+Quan điểm của chủ nghĩa duy vật biện chứng về mối quan hệ giữa cái chung và cái riêng:
+Cái chung tồn tại khách quan bên ngoài cái riêng 
+Cái riêng tồn tại khách quan không bao chứa cái chung 
+Cái chung và cái riêng đều không tồn tại đồng thời 
+Không có cái chung thuần túy tồn tại ngoài cái riêng, cái chung tồn tại thông qua cái riêng
+4
+1
+0
+Triết học mác-lênin bao gồm:
+Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật siêu hình 
+Chủ nghĩa duy tâm và chủ nghĩa duy vật 
+Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử 
+Chủ nghĩa duy vật và chủ nghĩa duy tâm
+3
+1
+0
+Triết học là gì? 
+Triết học là tri thức về thế giới tự nhiên 
+Triết học là tri thức về tự nhiên và xã hội 
+Triết học là tri thức lý luận của con người về thế giới 
+Triết học là hệ thống tri thức lý luận chung nhất của con người về thế giới và vị trí của con người trong thế giới 
+4
+1
+0
+Khi xây dựng phương pháp mới của khoa học, Brunô đòi hỏi khoa học tự nhiên phải dựa trên cái gì? 
+Dựa trên những giáo điều tôn giáo 
+Dựa trên ý muốn chủ quan 
+Dựa trên tình cảm, khát vọng 
+Dựa trên thực nghiệm
+4
+1
+0
+Theo quan niệm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng:
+Phát triển của sự vật chỉ bao hàm sự thay đổi về lượng 
+Phát triển của sự vật chỉ bao hàm sự thay đổi về chất 
+Quá trình phát triển của sự vật là quá trình chuyển hóa từ sự thay đổi dần về lượng sang sự thay đổi về chất và ngược lại 
+Chất và lượng cùng biến đổi đồng thời
+3
+1
+0
+Nhà triết học nào coi “lửa” là thực thể đầu tiên của thế giới và đó là lập trường của nhà triết học:
+Đêmôcrit - chủ nghĩa duy vật chất  phác
+Heraclit - chủ nghĩa duy chất phác 
+Plato - chủ nghĩa duy tâm khách quan 
+Anaximen - chủ nghĩa duy vật tự phát
+2
+1
+0
+Nhà triết học nào cho nguyên tử và khoảng không là thực thể đầu tiên của thế giới và đó là lập trường triết học
+Đêmôcrit - chủ nghĩa duy vật chất phác 
+Heraclit - chủ nghĩa duy vật chất phác 
+Platon - chủ nghĩa duy tâm khách quan 
+Aristote - chủ nghĩa duy vật tự phát
+1
+1
+0
+Brunô là nhà khoa học và triết học của nước nào? 
+Đức 
+Pháp 
+Ba lan 
+Italia
+4
+1
+0
+Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
+Chất tồn tại khách quan bên ngoài sự vật 
+Chất tồn tại khách quan gắn liền với sự vật 
+Không có chất thuần túy bên ngoài sự vật 
+Chất là cái vốn có của sự vật
+1
+1
+0
+Các Mác đã giải thích xã hội trên quan điểm:
+Chủ nghĩa duy vật siêu hình 
+Chủ nghĩa duy tâm biện chứng 
+Chủ nghĩa duy vật biện chứng 
+Chủ nghĩa duy thực
+3
+1
+0
+Chủ nghĩa Mác Lênin là một học thuyết có tính chất:
+Mở không cứng nhắc 
+Đóng bất biến 
+Mở giáo đều 
+Mở vĩnh viễn
+1
+1
+0
+Ăngghen viết: “…đã sáng tạo ra bản thân con người”. Hãy chọn từ thích hợp điền vào….để hoàn thiện 
+Vật chất 
+Thượng đế 
+Lao động 
+Tự nhiên
+3
+1
+0
+Trường phái triết học nào cho rằng thực tiễn là cơ sở chủ yếu và trực tiếp của nhận thức:
+Chủ nghĩa duy tâm khách quan 
+Chủ nghĩa duy vật siêu hình 
+Chủ nghĩa duy vật biện chứng 
+Chủ nghĩa Duy Nghĩa
+3
+1
+0
+Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là sai:
+Chất là tính quy định vốn có của sự vật 
+Chất là tổng hợp hữu cơ các thuộc tính của sự vật nói lên sự vật là cái gì 
+Chất đồng nhất với thuộc tính 
+Chắc là cái phân biệt nó với cái khác
+3
+1
+0
+Các bộ phận lý luận cơ bản cấu thành Chủ nghĩa Mác – Lênin là:
+Triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin và Chủ nghĩa xã hội khoa học.
+Kinh tế chính trị Mác – Lênin, tư tưởng triết học và lịch sử nhân loại.
+Triết học, kinh tế học và xã hội học.
+Tư tưởng văn hóa Phục Hưng Pháp; triết học cổ điển Đức, kinh tế chính trị cổ điển Anh. 
+1
+1
+0
+Phương pháp luận là:
+khoa học về nhận thức.
+phương pháp tiếp cận nhận thức và thực tiễn.
+Lý luận hay khoa học về phương pháp.
+Lý luận hay khoa học về phương pháp – định hướng cách tiếp cận nhận thức và thực tiễn.
+4
+1
+0
+Sự phủ định để đưa sự vật dường như quay lại điểm xuất phát ban đầu nhưng trên cơ sở cao hơn, tiến bộ hơn, trong phép biện chứng gọi là:
+Phủ định biện chứng
+Phủ định sạch trơn
+Chuyển hóa 
+Lặp lại
+1
+1
+0
+Trình độ của lực lượng sản xuất thể hiện ở:
+Trình độ của người lao động, trình độ của công cụ lao động 
+Trình độ tổ chức lao động xã hội, trình độ tổ chức lao động xã hội 
+Trình độ ứng dụng khoa học vào sản xuất, trình độ phân công lao động xã hội 
+Cả a b c đều đúng
+4
+1
+0
+Ăngghen viết: “Các Mác đã phát hiện ra quy luật phát triển của….nghĩa là tìm ra cái sự thật đơn giản là trước hết con người cần phải ăn uống ở và mặt trước khi có thể lo đến chuyện làm chính trị, khoa học nghệ thuật và tôn giáo. Hãy điền từ thích hợp vào chỗ trống 
+Thế giới 
+Xã hội loài người 
+Tự nhiên 
+Vật chất
+2
+1
+0
+“Con người sáng tạo ra thượng đế, bản tính con người là tình yêu, tôn giáo cũng là một tình yêu”, quan điểm này:
+Arixtốt
+Phoiơbắc
+Hêghen
+Can tơ
+2
+1
 0
 Trong xã hội có 3 quá trình sản xuất chủ yếu, quá trình nào là cơ sở của tồn tại và phát triển xã hội:
 Sản xuất vật chất 
