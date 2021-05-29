@@ -168,6 +168,9 @@ class Question:
     def wrong(self):
         self.cWrong = int(self.cWrong) + 1
 
+    def getQues(self):
+        return "{}/{} {}".format(self.cRight, self.cWrong, self.ques)
+
     def getKey(self):
         ans = ""
         ans = self.ans1 if self.key == '1' else ans

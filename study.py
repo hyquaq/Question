@@ -2,6 +2,8 @@ import os
 from Manager import ManagerQuestion, Question
 from tkinter import *
 import random
+import tkinter as tk
+from tkinter import messagebox
 
 
 def removeNewline(sources):
@@ -44,49 +46,76 @@ def inputStudyed(path='studyed.txt'):
 
 def clickA():
     if int(ques.key) == 1:
+        ques.right()
+
         print('bingo')
     else:
-        print('right answer is {}'.format(ques.getKey()))
+        ques.wrong()
+        if messagebox.askokcancel(title="Error", message=ques.getKey()):
+            print(ques.getKey())
+        else:
+            window.quit()
     nextQues()
 
 
 def clickB():
     if int(ques.key) == 2:
+        ques.right()
         print('bingo')
     else:
-        print('right answer is {}'.format(ques.getKey()))
+        ques.wrong()
+        if messagebox.askokcancel(title="Error", message=ques.getKey()):
+            print(ques.getKey())
+        else:
+            window.quit()
     nextQues()
 
 
 def clickC():
     if int(ques.key) == 3:
+        ques.right()
         print('bingo')
     else:
-        print('right answer is {}'.format(ques.getKey()))
+        ques.wrong()
+        if messagebox.askokcancel(title="Error", message=ques.getKey()):
+            print(ques.getKey())
+        else:
+            window.quit()
     nextQues()
 
 
 def clickD():
     if int(ques.key) == 4:
+        ques.right()
         print('bingo')
     else:
-        print('right answer is {}'.format(ques.getKey()))
+        ques.wrong()
+        if messagebox.askokcancel(title="Error", message=ques.getKey()):
+            print(ques.getKey())
+        else:
+            window.quit()
     nextQues()
 
 
 def changeQuestion():
-    LabelQues.config(text=ques.ques, wraplength=500, height=3, bg='#fcb353', padd)
+    global counted
+    counted += 1
+    window.title(
+        "==>Welcome to my Study<== {}/{}".format(counted, len(questions)))
+    LabelQues.config(text=ques.getQues(), wraplength=500,
+                     height=5, bg='#fcb353', font=('Arial', 20))
     btnA.config(text=ques.ans1,
-                bd=0, bg='#45ccde', justify=LEFT)
+                bd=0, bg='#45ccde', width=300, font=('Arial', 20))
     btnB.config(text=ques.ans2,
-                bd=0, bg='#45ccde')
+                bd=0, bg='#45ccde', width=300, font=('Arial', 20))
     btnC.config(text=ques.ans3,
-                bd=0, bg='#45ccde')
+                bd=0, bg='#45ccde', width=300, font=('Arial', 20))
     btnD.config(text=ques.ans4,
-                bd=0, bg='#45ccde')
+                bd=0, bg='#45ccde', width=300, font=('Arial', 20))
 
 
 def nextQues():
+    save(questions)
     questions.sort(key=lambda e: (
         int(e.cWrong), -int(e.cRight)), reverse=True)
     global ques
@@ -94,30 +123,59 @@ def nextQues():
     changeQuestion()
 
 
+def save(source, path='./out.txt'):
+    print("i'm storing...")
+    try:
+        with open(path, mode='w', encoding='utf8') as fo:
+            for e in source:
+                fo.write("{}\n".format(e.getInformation()))
+            return True
+    except Exception as e:
+        return False
+
+
+counted = 0
 window = Tk()
 # title game
-window.title = "==>Welcome to my Study<=="
+window.title("==>Welcome to my Study<==")
 window.config(background='#fcb353')
+window.geometry("700x150")
+window.attributes('-fullscreen', True)
+window.config()
 
-frame = Frame(window, width=500, height=500, bg='#fcb353')
+frame = Frame(window, width=500, height=300, bg='#fcb353')
 frame.pack()
-
-questions = inputStudyed('./out.txt')
+path = './out.txt'
+questions = inputStudyed(path)
 ques = questions[0]
 
-LabelQues = Label(frame)
+LabelQues = Label(frame,  anchor=tk.W)
 LabelQues.pack()
+
 btnA = Button(frame, command=clickA)
-btnA.pack(side=TOP)
+btnA.pack(side=TOP,  anchor=tk.W)
 
 btnB = Button(frame, command=clickB)
-btnB.pack(side=TOP)
+btnB.pack(side=TOP,  anchor=tk.W)
 
 btnC = Button(frame, command=clickC)
-btnC.pack(side=TOP)
+btnC.pack(side=TOP,  anchor=tk.W)
 
 btnD = Button(frame, command=clickD)
-btnD.pack(side=TOP)
+btnD.pack(side=TOP,  anchor=tk.W)
 changeQuestion()
 
+tk.Button(text="QUIT",
+          bd=0,
+          bg="Orange",
+          fg="white",
+          command=quit,
+          activebackground="blue",
+          font="Firacode",
+          relief="ridge",
+          padx=10,
+          pady=10
+          ).pack()
 window.mainloop()
+
+print('see yeah')
